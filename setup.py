@@ -7,6 +7,6 @@ setup(name='scrapy-proxies',
         description='Scrapy Proxies: random proxy middleware for Scrapy',
         author='Aivars Kalvans',
         author_email='aivars.kalvans@gmail.com',
-        url='https://github.com/aivarsk/scrapy-proxies',
+        url='https://github.com/kitarends/scrapy-proxies',
         packages=['scrapy_proxies'],
         )
